@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet" >
+</head>
+
+<body>
+	<div id="Logo">
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/>
+
+	</div>
+	
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div>
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div>
+	
+	<div id="Content">
+		<h1>Family</h1>
+		<h3>These are some of our top picks for Family quick dishes. They are have been divided into three different sections ,which can be found by following the appropriate link, they are breakfast, lunch, and dinner. Hope you enjoy and if you have any of your own recipes please send them to us our information can be found at the <a href="ContactUs.html">Contact Us</a> page.</h3>
+
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> 
+		<a href="#dinner">Dinner</a> 
+
+		<a name="breakfast" id="breakfast"></a>
+		<h2><p><b>German Pancakes with berries</b></h2>	
+		<img src="Images/Parents-Quick--Easy_German.jpg" alt="German Pancakes with berries"/>
+		<!---this image can be accessed at "http://www.ivillage.com/german-pancake-berries/3-r-464908http://www.ivillage.com/german-pancake-berries/3-r-464908"--->
+        
+        <h4><p><b>Ingredients</b></h4>		
+		
+		<ul>
+		<li>2 tablespoon butter</li>
+		<li>2 eggs</li>
+		<li>1/2 cup all-purpose flour</li>
+		<li>1/2 cup of reduced/full-fat milk</li>
+		<li>1 teaspoon vanilla extract</li>
+		<li>1/4 teaspoon salt</li>
+		<li>3 cups fresh blueberries, raspberries,</li>
+		<li>blackberries, and sliced strawberries</li>
+		<li>2 tablespoons powdered/regular sugar</li>
+		</ul>
+		
+		<h4>Methood</h4>
+		
+		<ul>
+		<li>Heat oven to 400Â°F. Place butter in a 10-inch ovenproof skillet.</li>
+		<li>Put the skillet in the oven for</li>
+		<li>3 to 5 minutes, or until butter melts.
+		<li>Whisk eggs in a bowl.</li>
+		<li>Add flour, milk, granulated sugar,</li>
+		<li>vanilla, and salt; whisk until the mixture is smooth.</li>
+		<li> Immediately pour batter into the hot</li>
+		<li>skillet. Bake for 20 to 25 minutes, or until puffed and browned.</li>
+		<li>Remove from the oven. The pancake will fall in the center as it cools. Top with berries</li> 
+		<li>and powdered sugar. Cut in six pieces and serve immediately. Makes 6 servings.</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> 
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="lunch" id="lunch"></a>
+		<h3>Ranch Fried Chicken Sandwiches and Baked Beans</h3>
+		<img src="Images/Ranch Chicken Sandwiches.jpg" alt="Ranch Fried Chicken Sandwich"/>
+	    <!---this image can be accessed at "http://www.momswhothink.com/quick-and-easy-dinner-recipes/ranch-fried-chicken-sandwiches-and-baked-beans.htmlhttp://www.momswhothink.com/quick-and-easy-dinner-recipes/ranch-fried-chicken-sandwiches-and-baked-beans.html"--->
+
+		<h4><P>Ingredients</p></h4>
+		
+		<ul>
+		<li>4 boneless, skinless chicken breast halves (about 1 Ã‚Â¼ pounds)</li>
+		<li>Ranch dressing</li>
+		<li>Italian-Style dry bread crumbs</li>
+		<li>Olive or vegetable oil</li>
+		<li>4 sandwich rolls</li>		
+		<li>brown sugar baked beans (recipe below)</li>
+		</ul>
+		
+		<h4>Method</h4>
+
+		<ul>
+		<li>Preheat oven to 350 degrees F.</li>
+		<li>Prepare brown sugar baked beans according to recipe below place in oven.</li>
+		<li>While beans are baking, dip chicken breasts into dressing, and coat with bread crumbs.</li>		
+		<li>Heat oil in a 12 inch skillet over medium-high heat.</li>
+		<li>Cook chicken in oil 12 to 15 minutes, turning once, until outside is golden brown and juice is no longer pink when cut through thickest part.</li>
+		<li>Serve on sandwich rolls with baked beans on the side.  Makes 4 servings.</li>
+		<li>Brown Sugar Baked Beans</li>		
+		</ul>
+		
+		<h5>Ingredients for baked beans</h5>
+		
+		<ul>
+		<li>2 15 ounce cans pork and beans</li>
+		<li>1 onion, chopped</li>
+		<li>1 cup ketchup</li>
+		<li>1/4 cup brown sugar, packed</li>
+		</ul>
+		
+		<h5>Method</h5>
+		
+		<ul>
+		<li>Mix all ingredients together in ungreased 13"x9" baking dish.</li>
+		<li>Bake uncovered, add 350 degrees F for 30 minutes. Makes 6 to 8 servings.</li>
+		</ul>
+		
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> 
+		<a href="#dinner">Dinner</a> 
+
+		<a name="dinner" id="dinner"></a>
+		<h3><p><b>Home made burgers with chips and a salad</b></h3>
+		<img src="Images/Burger.jpg" alt="Burger with chips and salad"/>
+		<!--- this image can be accessed at "http://resourcefulcook.com/recipes/view/5lnk1-beef-burgers-chipshttp://resourcefulcook.com/recipes/view/5lnk1-beef-burgers-chips"--->
+        
+        <h4><p><b>Ingredients</b></h4>
+		
+		<ul>
+		<li>A minimum of 300 grams of mince meat (Depends on how much you want)</li>
+		<li>Potatoes and Sweet potatoes</li>
+		<li>1 table spoon of mixed herbs</li>
+		<li>Salt and Pepper</li>
+		<li>All spice</li>
+		<li>Diced bacon</li>
+		<li>Bag of Salad leaves</li>
+		<li>Jar of beetroot slices</li>
+		<li>Sliced Onion</li>
+		<li>Sliced Cheese</li>
+		<li>Tea spoon of syrup</li>
+		<li>Bagels/Buns cut in half</li>
+		</ul>
+		
+		<h4><p><b>Method</b></p></h4>
+		
+		<ul>
+		<li>Pour olive oil into a pan on a hot plate then put sliced onion into hot pan.</li> 
+		<li>Wait for the onion to brown, then mix mince meat with mixed herbs, half a teaspoon of all spice and diced bacon.</li> 
+		<li>Cut potatoes into wedges and mix with salt, pepper and a teaspoon of olive oil and place into oven set at 200 degrees C.</li> 
+		<li>Shape mince meat into burgers and place on to hot plate.</li> 
+		<li>Make beetroot and spinach salad (just for example) simply place leaves of spinach into bowl, then take beetroot slices and mix with spinach leaves</li>  
+		<li>When the burgers are nearly done, add syrup over burgers whilst burgers are in the pan</li> 
+		<li>Place sliced cheese on bagels and place them in with the chips in the oven, in order for them to toast</li> 
+		<li>Press burgers down and if a red liquid red liquid comes out they're not done</li>  
+		<li>Chips should be a golden colour when done</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> 
+		<a href="#dinner">Dinner</a> 
+
+	</div>
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div>
+</body>
+
+</html>
