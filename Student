@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet"><!--Link to stylesheet-->
+</head>
+
+
+	<div id="Logo">
+	
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/><!--Website Logo-->
+	
+	</div><!--Close div Logo-->
+	<body>
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div><!--Close div Navbar-->
+	
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div><!--Close div SecondNav-->
+	
+	<div id="Content">
+		<h1>Students</h1>
+		<h3>These are some of our top picks for student quick dishes. They are have been divided into three different sections ,which can be found by following the appropriate link, they are breakfast, lunch, and dinner. Hope you enjoy and if you have any of your own recipes please send them to us our information can be found at the <a href="ContactUs.html">Contact Us</a> page.</h3>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="breakfast" id="breakfast"></a>
+		<h2>French Toast</h2>
+		<img src="Images/FrenchToast.jpg" alt="French Toast"/>
+		<!---this image can be found at "http://rino-onir.blogspot.ie/2013/06/resep-french-toast-simpel-dan-enak.htmlhttp://rino-onir.blogspot.ie/2013/06/resep-french-toast-simpel-dan-enak.html"--->
+		<h2>Ingredients</h2>
+		<ul>
+		<li>2 eggs</li>
+		<li>1 cup of milk</li>
+		<li>2-4 slices of bread</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Mix eggs and milk well in a bowl.</li>
+		<li>Dip the bread into the mixture.</li>
+		<li>Heat oil in pan.</li>
+		<li>Deep fry the bread</li>
+		<li>Serve up!! (add any extras you fancy e.g banana,apple,custard.. etc.)</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="lunch" id="lunch"></a>
+		<h2>Tomato Soup</h2>
+		<img src="Images/tomatosoup.jpg" alt="Tomato Soup"/>
+		<!---this image can be found at "http://www.pasmama.lt/straipsnis/pomidoru-sriuba-su-ryziais-ir-darzovemis-440http://www.pasmama.lt/straipsnis/pomidoru-sriuba-su-ryziais-ir-darzovemis-440"--->
+		<h2>Ingredients</h2>
+		<ul>
+		<li>400g can cherry tomatoes</li>
+		<li>1 tablespoon of sugar</li>
+		<li>100ml vegetable stock</li>
+		<li>2 tablespoons of mascarpone</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Put the tomatoes, sugar, stock and sauces into a medium pan with some salt and pepper. Bring to a simmer and cook for 5-10 mins.<li>
+		<li>Stir in the mascarpone and blend to a smooth soup. Return to the pan and keep warm.</li>
+		<li>Serve up!! (add any extras you fancy e.g bread,dippers.. etc.)</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="dinner" id="dinner"></a>
+		<h2>Chicken Pesto Pasta</h2>
+		<img src="Images/chickenPasta.jpg" alt="Chicken Pesto Pasta"/>
+		<!---this image can be found at "http://www.pinterest.com/sandracaz/http://www.pinterest.com/sandracaz/"--->
+		
+		<h2>Ingredients</h2>
+		<ul>
+		<li>500g of chicken breast or thigh</li>
+		<li>About 20 cherry tomatoes</li>
+		<li>1/4 cup of olive oil</li>
+		<li>1 tablespoon of parmesan cheese</li>
+		<li>2 and 1/2 tablespoons of minced garlic</li>
+		<li>Any type of pasta</li>
+		<li>Basil(optional)</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Start boiling a pot of water for the pasta.<li>
+		<li>Put the tomatoes, basil, oil, garlic, cheese in to a blender and blend up until smooth.</li>
+		<li>Chop the chicken into pieces of your chosen size.</li>
+		<li>Pre-heat a pan with olive oil for the chicken. Put the pasta in the pot.</li>
+		<li>Cook the chicken in the pan of medium-high.</li>
+		<li>Once the pasta and chicken are cooked, take both off the heat.</li>
+		<li>Drain the pasta. Put the pasta back in the pot and keep off the heat.</li>
+		<li> Put the chicken into the pot with the pasta and scoop about 1/4 cup of basil and tomato pesto into the pasta and chicken. Mix well.</li>
+		<li>Serve up!! (add any extras you fancy e.g bacon bits, extra cheese... etc.)</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+	</div><!--Close div Content-->
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div><!--Close div Footer-->
+</body>
+
+</html>
