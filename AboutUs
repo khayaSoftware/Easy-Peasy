@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="MyStyle.css" rel="stylesheet">
+</head>
+
+<body>
+	<div id="Logo">
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/>
+	</div>
+	
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div>
+	
+	<div id="SecondNav">
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div>
+	
+	<div id="Content">
+		<h2>About Us</h2>
+		
+		<p>Easy Peasy was created by Thulubheke Khaya Khumalo (X00089102),Ben Healy (X00119721), place other team members names here, on the 22 of November 2014.</p>
+		
+		<p> Easy Peasy is a website that allows the user to access and recommend quick and easy recipes. For couples, families, kids and students.</p>
+			
+		
+		
+	</div>
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div>
+</body>
+
+</html>
