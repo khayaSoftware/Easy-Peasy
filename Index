@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet" ><!--Link to stylesheet-->
+</head>
+
+
+	
+	<div id="Logo">
+	
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/><!--Website Logo-->
+	<!---This image can be found at "http://samuelstravels.com/2012/10/15/easy-peasy-japaneasy-why-its-easier-to-learn-a-3rd-language-and-why-its-not-for-the-reason-you-think/http://samuelstravels.com/2012/10/15/easy-peasy-japaneasy-why-its-easier-to-learn-a-3rd-language-and-why-its-not-for-the-reason-you-think/"--->
+
+	</div><!--Close div Logo-->
+	<body>	
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div><!--Close div Navbar-->
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div><!--Close div SecondNav-->
+	<div id="Content">
+	
+		<h1>Meal of the day</h1>
+		<h2>Chicken Curry</h2>
+		<img src="Images/chickenCurry.jpg" alt="Chicken Curry"/>
+		<!--- this image can be found at "https://www.google.com/search?q=indian+chicken+curry&amp;tbm=isch&amp;tbs=simg:CAQSZRpjCxCo1NgEGgIICwwLELCMpwgaPAo6CAISFM0XgR-MDZcSmRHlEp4RrgqwF58KGiCQ5aNx4Uyw6eHGnrePsqljf3KIGpiY6pLvaTFVzshSeQwLEI6u_1ggaCgoICAESBMpvUHcM&amp;sa=X&amp;ei=KEtzVNCXE4_nsASCroCgCg&amp;ved=0CBsQwg4oAA&amp;biw=1280&amp;bih=880&amp;safe=active&amp;ssui=on#facrc=_&amp;imgdii=_&amp;imgrc=iWotfzAjV1DCZM%253A%3Bdt2O6jlIyNcIqM%3Bhttp%253A%252F%252F4.bp.blogspot.com%252F-0KRCE5J91sI%252FT4Av3-zdv_I%252FAAAAAAAACVM%252F3gTSHnaYUZI%252Fs1600%252FNorth%252BIndian%252BChicken%252BCurry.jpg%3Bhttp%253A%252F%252Fjennyeatwellsrhubarbginger.blogspot.com%252F2012%252F04%252Fnorth-indian-chicken-curry-light.html%3B912%3B684https://www.google.com/search?q=indian+chicken+curry&amp;tbm=isch&amp;tbs=simg:CAQSZRpjCxCo1NgEGgIICwwLELCMpwgaPAo6CAISFM0XgR-MDZcSmRHlEp4RrgqwF58KGiCQ5aNx4Uyw6eHGnrePsqljf3KIGpiY6pLvaTFVzshSeQwLEI6u_1ggaCgoICAESBMpvUHcM&amp;sa=X&amp;ei=KEtzVNCXE4_nsASCroCgCg&amp;ved=0CBsQwg4oAA&amp;biw=1280&amp;bih=880&amp;safe=active&amp;ssui=on#facrc=_&amp;imgdii=_&amp;imgrc=iWotfzAjV1DCZM%253A%3Bdt2O6jlIyNcIqM%3Bhttp%253A%252F%252F4.bp.blogspot.com%252F-0KRCE5J91sI%252FT4Av3-zdv_I%252FAAAAAAAACVM%252F3gTSHnaYUZI%252Fs1600%252FNorth%252BIndian%252BChicken%252BCurry.jpg%3Bhttp%253A%252F%252Fjennyeatwellsrhubarbginger.blogspot.com%252F2012%252F04%252Fnorth-indian-chicken-curry-light.html%3B912%3B684"--->
+
+		<h2>Ingredients</h2>
+		<ul>
+		<li>1 and 1/2 pounds of chicken, breast or thigh</li>
+		<li>2 teaspoons of cumin</li>
+		<li>4 teaspoons of flour</li>
+		<li>2 tablespoons of oil</li>
+		<li>1 cup of chicken stock</li>
+		<li>1 tablespoon of butter</li>
+		<li>1 cup of frozen peas, thawed</li>
+		<li>1 medium onion, chopped</li>
+		<li>2 carrots, peeled and chopped</li>
+		<li>1/4 cup of cream</li>
+		<li>Salt and pepper</li>
+		<li>1 and 1/2 tablespoons of curry powder</li>
+		<li>1 teaspoon of cinnamon</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Chop the chicken into pieces of your chosen size.</li>
+		<li>Saute the chicken in a pan with oil and butter until golden brown.</li>
+		<li>Remove to plate, and in same pan saute onion until soft.Add carrots and stir.</li>
+		<li>Add curry, cinnamon and cumin. Stir to coat.</li>
+		<li>Add flour, stir, and let cook for 30 seconds. Add stock and stir until thick.</li>
+		<li>Return chicken to pan and simmer for about 20 minutes.Add peas and cream.</li>
+		<li>Stir well and cook until hot. Season with salt and pepper. Serve over rice.</li>
+		<li>For rice cook any chosen packet and cook according to package directions.</li>
+		</ul>
+		
+	</div><!--Close div Content-->
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+
+	</div><!--Close div Footer-->
+	
+	</body>
+
+
+</html>
