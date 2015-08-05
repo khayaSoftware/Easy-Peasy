@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet"><!--Link to stylesheet-->
+</head>
+
+
+	<div id="Logo">
+	
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/><!--Website Logo-->
+	
+	</div><!--Close div Logo-->
+	<body>
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div><!--Close div Navbar-->
+	
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div><!--Close div SecondNav-->
+	
+	<div id="Content">
+		<h1>Kids</h1>
+		<h3>These are some of our top picks for kids quick dishes. They are have been divided into three different sections ,which can be found by following the appropriate link, they are breakfast, lunch, and dinner. Hope you enjoy and if you have any of your own recipes please send them to us our information can be found at the <a href="ContactUs.html">Contact Us</a> page.</h3>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="breakfast" id="breakfast"></a>
+		<h2>Toast with Sliced Bananas and Nutella</h2>
+		<img src="images/banana sandwhich.jpg" alt="Breakfast"/>
+	    <!--- this image can be accessed at <a href="http://www.thecookingmom.com/cooking-community/member-recipes/nutella-and-banana-sandwich/http://www.thecookingmom.com/cooking-community/member-recipes/nutella-and-banana-sandwich/"--->
+		<h3>Ingredients</h3>
+		<ul>
+		<li>2 slices of bread</li>
+		<li>sliced banana</li>
+		<li>Nutella</li>
+		
+		</ul>
+		<h3>Method</h3>
+		<ul>
+		<li>Put bread in toaster</li>
+		<li>slice up banana</li>
+		<li>spread nutella on toast</li>
+		<li>place slices of banana on toast</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="lunch" id="lunch"></a>
+		<h2>BBQ Chicken Sandwhich</h2>
+		<img src="images/bbq.jpg" alt="Bbq chicken sandwhich"/>
+		<!--- this image can be accessed at <a href="http://www.eatingwell.com/recipes/bbq_chicken_sandwich.htmlhttp://www.eatingwell.com/recipes/bbq_chicken_sandwich.html"--->
+		<h2>Ingredients</h2>
+		<ul>
+		<li>1/2 cup shredded cooked chicken</li>
+        <li>1/4 cup shredded carrots</li>
+        <li>2 tablespoons barbecue sauce</li>
+        <li>2 teaspoons light ranch dressing</li>
+        <li>1 small whole-wheat sandwich bun</li>
+        <li>1 leaf romaine lettuce</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Combine chicken </li>
+        <li>carrots and barbecue sauce in a bowl. <li> 
+		<li>Spread ranch dressing on the bun. <li>
+		<li>Top with the chicken mixture and lettuce. <li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="dinner" id="dinner"></a>
+		<h2>Old-Fashioned Spaghetti & Meatballs</h2>
+		<img src="images/Meatballs.jpg" alt="S&M"/>
+		<!--- this image can be accessed at "http://www.eatingwell.com/recipes/old_fashioned_spaghetti_meatballs.htmlhttp://www.eatingwell.com/recipes/old_fashioned_spaghetti_meatball.html-->
+
+		<h2>Ingredients</h2>
+		<ul>
+		<li><p>MEATBALLS</p></li>
+        <li>1/3 cup bulgur</li> 
+        <li>1/2 cup hot water</li>
+        <li>4 ounces lean ground beef</li>
+        <li>4 ounces hot Italian sausage</li>
+        <li>1 medium onion, very finely chopped</li>
+        <li>2 large egg whites, lightly beaten</li>
+        <li>3 cloves garlic, very finely chopped</li>
+        <li>1 teaspoon dried oregano</li>
+        <li>1/2 teaspoon salt</li>
+        <li>1/2 teaspoon freshly ground pepper</li>
+        <li>1 cup fresh breadcrumbs, preferably whole-wheat (see Tip)</li>
+        <li><p>SAUCE & SPAGHETTI</p></li>
+        <li>4 cups prepared marinara sauce</li>
+        <li>1/2 cup slivered fresh basil leaves, or chopped fresh parsley</li>
+        <li>1 pound whole-wheat spaghetti, or linguine</li>
+        <li>1/2 cup freshly grated Parmesan, or Romano cheese (1 ounce)</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>To prepare meatballs: Combine bulgur and water in a small bowl. Let stand until the bulgur is tender and the liquid is absorbed, about 30 minutes.</li>
+        <li>Preheat oven to 350°F. Coat a rack with cooking spray and place it over a baking sheet lined with foil.</li>
+        <li>Combine ground beef, sausage, onion, egg whites, garlic, oregano, salt, pepper, breadcrumbs and the soaked bulgur in a large bowl; mix well. Form the mixture into 1-inch meatballs (about 24). Place the meatballs on the rack and bake for 25 minutes. Blot well with paper towel.</li>
+        <li>To prepare sauce &amp; spaghetti: Put a large pot of lightly salted water on to boil. Bring sauce to a simmer in a Dutch oven. Add the meatballs to the sauce and simmer, covered, for 20 minutes. Stir in basil (or parsley).</li>
+        <li>Meanwhile, cook spaghetti (or linguine) until just tender, 8 to 10 minutes. Drain and transfer to a serving bowl. Top with the sauce and meatballs and serve with grated cheese.</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+	</div><!--Close div Content-->
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div><!--Close div Footer-->
+</body>
+
+</html>
