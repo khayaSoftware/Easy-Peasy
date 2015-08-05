@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet"><!--Link to stylesheet-->
+</head>
+
+
+	<div id="Logo">
+	
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/><!--Website Logo-->
+	
+	</div><!--Close div Logo-->
+	<body>
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div><!--Close div Navbar-->
+	
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div><!--Close div SecondNav-->
+	
+	<div id="Content">
+		<h1>Couples</h1>
+		<h3>These are some of our top picks for couples quick dishes. They are have been divided into three different sections ,which can be found by following the appropriate link, they are breakfast, lunch, and dinner. Hope you enjoy and if you have any of your own recipes please send them to us our information can be found at the <a href="ContactUs.html">Contact Us</a> page.</h3>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="breakfast" id="breakfast"></a>
+		<h2>Breakfast in Bed</h2>
+		<img src="images/Breakfast.jpg" alt="Breakfast in Bed"/>
+		<!--- this image can be accessed at <a href="http://www.tripadvisor.co.uk/LocationPhotoDirectLink-g186338-d1153516-i80373835-The_Harrison_Gastro_Pub_and_Hotel-London_England.htmlhttp://www.tripadvisor.co.uk/LocationPhotoDirectLink-g186338-d1153516-i80373835-The_Harrison_Gastro_Pub_and_Hotel-London_England.html"--->
+		<h3>Ingredients</h3>
+		<ul>
+		<li>2 eggs</li>
+		<li>2 sausages</li>
+		<li>2 slices of bacon</li>
+		<li>2 hash browns</li>
+		<li>2 tomatoes</li>
+		<li>mushrooms</li>
+		<li>2-4 slices of toast</li>
+		<li>coffee or tea</li>
+		<li>orange juice</li>
+		</ul>
+		<h3>Method</h3>
+		<ul>
+		<li>Heat up frying pan.</li>
+		<li>Put oil in pan.</li>
+		<li>Deep fry eggs.</li>
+		<li>Deep fry sausauges.</li>
+		<li>Deep fry slices of bacon.</li>
+		<li>Deep fry hash browns.</li>
+		<li>Serve up!! (add any extras you fancy e.g banana,apple,custard.. etc.)</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="lunch" id="lunch"></a>
+		<h2>Tortilla Soup</h2>
+		<img src="images/lunch.jpg" alt="Tortilla Soup"/>
+	    <!--- this image can be accessed at <a href="http://www.tastebook.com/recipes/3449666-Chicken-Tortilla-Souphttp://www.tastebook.com/recipes/3449666-Chicken-Tortilla-Soup"--->
+
+		<h2>Ingredients</h2>
+		<ul>
+		<li>2 boneless skinless chicken breast halves, cubed </li>
+        <li>1 medium onion, finely chopped </li>
+        <li>1 clove garlic, minced </li>
+        <li>3 medium tomatoes, seeded and chopped </li>
+        <li>4 cups chicken broth </li>
+        <li>1 teaspoon salt </li>
+        <li>1/8 teaspoon pepper </li>
+        <li>1 mild green chili, seeded and chopped </li>
+        <li>2 tablespoons vegetable oil </li>
+        <li>4 corn tortillas, cut in half and then into 4 inch strips (or already prepared tortilla strips instead of oil and tortillas) </li>
+        <li>shredded Monterey Jack cheese (about 2 tablespoons for each serving)</li>
+        <li>2 tablespoons coarsely chopped fresh cilantro</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Mix chicken, onion, garlic, tomatoes, broth, salt, pepper and the chili together in the slow cooker
+        <li>Cover and cook on low heat for 8 hours
+        <li>Sprinkle a bit of cheese into each serving bowl
+        <li>Ladle soup into bowl over cheese
+        <li>Top with cilantro and tortilla chips to serve
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+		<a name="dinner" id="dinner"></a>
+		<h2>Steak and Chips with Lemon Parsley Butter</h2>
+		<img src="images/Dinner.jpg" alt="Steak and Chips with Lemon Parsley Butter"/>
+		<!--- this image can be accessed at "http://www.redonline.co.uk/food/recipes/steak-and-chips-with-lemon-parsley-butterhttp://www.redonline.co.uk/food/recipes/steak-and-chips-with-lemon-parsley-butter"--->
+		<h2>Ingredients</h2>
+		<ul>
+		<li>20g butter, for frying</li>
+        <li>2 tbsp sunflower oil</li> 
+        <li>4x 200g beef steaks</li>
+        <li>2 tsp black pepper</li>
+        <li>1 tsp rock salt</li>
+
+        <li><p>FOR THE CHIPS</p> </li>
+        <li>1kg medium-sized King Edward potatoes</li>
+        <li>1 litre sunflower oil, for deep frying</li>
+        <li>2 tsp black pepper</li>
+        <li>1 tsp rock salt</li>
+
+        <li><p>FOR THE PARSELY BUTTER</p> </li>
+        <li>100g butter, softened</li>
+        <li>100g parsley, finely chopped</li>
+        <li>1 small garlic clove, chopped</li>
+        <li>Zest of 1 lemon</li>
+        <li>5 tsp black pepper</li>
+		</ul>
+		<h2>Method</h2>
+		<ul>
+		<li>Mash all the parsley butter ingredients together in a small bowl. Set aside</li>
+        <li>Wash and scrub the potatoes. Cut them into thick chips around 1cm thick and rinse in cold water before drying on kitchen paper.</li> 
+		<li>Place the chips into a deep saucepan and cover with the cold sunflower oil.</li>
+        <li>3 Place the pan on a medium heat and simmer for 10 minutes. </li>
+		<li>Increase the heat until large bubbles are visible and fry the chips, stirring occasionally until crispy and golden. Remove the chips from the oil and season.</li> 
+        <li>4 Meanwhile, season the steaks and heat a frying pan, adding the oil and butter. Fry the steaks for 1-4 min</li>
+		</ul>
+		
+		<a href="#breakfast">Breakfast</a> 
+		<a href="#lunch">Lunch</a> <!--Links for each meal-->
+		<a href="#dinner">Dinner</a> 
+		
+	</div><!--Close div Content-->
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div><!--Close div Footer-->
+</body>
+
+</html>
