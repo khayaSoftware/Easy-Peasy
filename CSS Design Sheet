@@ -1,0 +1,66 @@
+#Logo{
+	width:100%;
+	height:auto;
+	display:block;
+	float:left;
+	background-color:#FFFFFF;
+	
+
+}
+	
+body{
+	float:center;
+	background-color:#6B93FF;
+	margin-left:3em;
+	margin-right:3em;
+}
+#Navbar,#SecondNav{
+	height:1.5em;
+	font-size:2em;
+	background-color:#3852FF;
+	display:block;
+	clear:both;
+}
+a{
+	color:#FDD017;
+	padding-left:.5em;
+	padding-right:.5em;
+	text-decoration:none;
+}
+a:hover{
+	background-color:#3852FF;
+	color:#6B93FF;
+}
+a:visted{
+	color:#000000;
+}
+#Content{
+	width:100%;
+	height:auto;
+	background-color:#FFFFFF;
+	color:#3852FF;
+	text-align:center;
+}
+#Footer{
+	height:2em;
+	font-size:1.5em;
+	background-color:#3852FF;
+	display:block;
+	clear:both;
+	color:#FDD017;
+}
+li{
+	text-decoration:none;
+	font-size:1.2em;
+	list-style-type:none;
+}
+#Content a{
+	color:#F88017;
+
+}
+#Content p{
+	font-weight:bold;
+	font-style:italic;
+	
+
+}
