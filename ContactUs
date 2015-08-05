@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Easy Peasy</title>
+<link href="MyStyle.css" rel="stylesheet"><!--Link to stylesheet-->
+</head>
+
+
+	<div id="Logo">
+	
+	<img src="Images/easypeasy.jpg" alt="Easy Peasy Logo"/><!--Website Logo-->
+	
+	</div><!--Close div Logo-->
+	<body>
+	<div id="Navbar">
+	<a href="Index.html">Home</a>
+	<a href="AboutUs.html">About Us</a>
+	<a href="ContactUs.html">Contact Us</a>
+	</div><!--Close div Navbar-->
+	
+	
+	<div id="SecondNav">
+	
+	<a href="Couples.html">Couples</a>
+	<a href="Family.html">Family</a>
+	<a href="Kids.html">Kids</a>
+	<a href="Students.html">Students</a>
+	
+	</div><!--Close div SecondNav-->
+	
+	<div id="Content">
+		<h2>Easy Peasy is looking for new recipes, if you have a recipe you feel we should know about you can contact us at EasyPeasy@gmail.com.</h2>
+		
+		
+	
+	
+    <h4>you can also: </h4> 
+	Add us on <a href="https://www.facebook.com/https://www.facebook.com/"><img src="Images/Facebook.png" alt="Facebook"/></a>
+    Follow us on <a href="https://twitter.com/loginhttps://twitter.com/login"><img src="Images/Twitter.png" alt="Twitter"/></a>
+    Follow us on <a href="http://instagram.com/http://instagram.com/"><img src="Images/Instagram.png" alt="Instagram"/></a>
+	 	
+	</div><!--Close div Content-->
+	
+	<div id="Footer">
+	<p>You can contact us <a href="ContactUs.html">here</a> </p>
+	</div><!--Close div Footer-->
+</body>
+
+</html>
